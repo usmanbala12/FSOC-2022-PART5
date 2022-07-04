@@ -1,0 +1,25 @@
+.error {
+    background-color: hsl(8, 96%, 84%);
+    border: 1px solid red;
+    color: rgb(31, 16, 16);
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    padding: 0.5em 0;
+}
+
+.success {
+    background-color: hsl(115, 69%, 75%);
+    border: 1px solid green;
+    color: rgb(31, 16, 16);
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    padding: 0.5em 0;
+}
+
+.blogCard {
+    border: 1px solid black;
+    padding: 0.5em 0;
+    margin-block: 1em;
+}
